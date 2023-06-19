@@ -1,1 +1,3 @@
-# Oasis-infobyte
+# Oasis-infobyte Internship
+
+Iris flower classification is a popular machine learning project that aims to predict flowers based on their specific features.4 The iris dataset contains three species of flowers: setosa, versicolor, and virginica.034 Each species has four features: sepal length, sepal width, petal length, and petal width.2 The central goal is to design a model that makes proper classifications for new flowers.0 The Iris classification dataset is famous in the world of machine learning.24 Classification is a machine learning technique used to predict group membership for data instances.
